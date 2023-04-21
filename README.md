@@ -35,7 +35,7 @@
 
 |  | DAY |  TOPICS  | SOLUTION |
 | :---: | :---: | :------------------------------------------------------------------------------------------------------------------------------------------------- | :---: |
-| ☑️  | 01   |   [Introduction](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/readMe.md)                                                                   | [🎯 Day-1](https://github.com/kamlesh0007/30-days-of-javascript-solutions/tree/main/day-1) |
+| ☑️  | 01   |   [Introduction](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/readMe.md)                                                                   | [🎯 Day-1](https://github.com/kamlesh0007/30-days-of-javascript-solutions/tree/main/Day_1) |
 | ☑️  | 02    |   [Data Types](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/02_Day_Data_types/02_day_data_types.md)                                        | [🎯 Day-2](https://github.com/kamlesh0007/30-days-of-javascript-solutions/tree/main/day-2) |
 | ☑️  | 03    |   [Booleans, Operators, Date](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/03_Day_Booleans_operators_date/03_booleans_operators_date.md)   | [🎯 Day-3](https://github.com/kamlesh0007/30-days-of-javascript-solutions/tree/main/day-3) |
 | ☑️  | 04    |   [Conditionals](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/04_Day_Conditionals/04_day_conditionals.md)                                  | [🎯 Day-4](https://github.com/kamlesh0007/30-days-of-javascript-solutions/tree/main/day-5) |
